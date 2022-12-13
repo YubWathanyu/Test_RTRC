@@ -1,6 +1,6 @@
 *{
-    padding: 1%;
-    margin: 0%;
+    padding: 0%;
+    margin: auto;
 }
 
 .grid{
@@ -20,8 +20,8 @@
 }
 
 .pic{
-    width: 383px;
-    height: 437px;
+    width: 100%;
+    /* height: 437px; */
 }
 
 .pic2{
